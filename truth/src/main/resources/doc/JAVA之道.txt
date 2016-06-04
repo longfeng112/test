@@ -1,0 +1,154 @@
+项目准备工作
+
+git的注册和安装
+https://github.com/
+http://blog.csdn.net/hhhccckkk/article/details/10458159
+http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html
+
+如何一起使用git和svn
+http://blog.csdn.net/zajin/article/details/9663203
+
+github多人协作
+http://bbs.nfa5.com/github/39774.html
+
+http://ask.dcloud.net.cn/docs/#http://ask.dcloud.net.cn/article/89
+http://www.dcloud.io/hellomui/
+
+三方培训
+
+HTML5中国产业联盟里有专业的培训机构为HTML5开发者提供DCloud产品的培训。
+- 0Hich的网校：大量免费视频教程：http://dcloud.apk00.com
+- 东翌学院：直播小班开课：http://www.dongyixueyuan.com/
+网友经验
+
+三方网友的学习经验有时对其他入门者会很有帮助，站在另一个角度来看待问题。
+网友YanRong的心得： [http://ask.dcloud.net.cn/article/217] (http://ask.dcloud.net.cn/article/217)
+滴石App开发者的心得：http://uikoo9.com/book/chapterDetail/1
+
+关于培训资源，详见http://ask.dcloud.net.cn/article/299
+
+
+
+Native.js示例汇总 
+http://ask.dcloud.net.cn/article/114
+
+
+http://ask.dcloud.net.cn/article/88
+
+
+开发资源
+
+iOS 官方在线文档：https://developer.apple.com/library/ios/navigation/
+Android 官方在线文档：https://developer.android.com/reference/packages.html
+演讲视频：http://v.youku.com/v_show/id_XNzYzNTcwNDI4.html
+
+
+
+ 网站到底要不要备案
+ http://www.chinaz.com/web/2015/0629/417793.shtml
+ 
+ http://wenku.baidu.com/link?url=IJDKR3SHm9qwBuy5nsMfCLEtbK44HGP2zVNPa_ZOaO41X4CIIjTuM5P4DT8iSIpuc5uTcGyUdo2xJGnwQoHbYPiBW5l-lqWYZkUfiFxrYye
+ 
+ 
+ 
+ 
+ 
+ 
+ Spring整合FreeMarker配置
+ http://swiftlet.net/archives/category/freemarker
+ 
+ 
+ 
+ http://songjianyong.iteye.com/blog/1462208
+ 
+ 
+ QQ号：3485058764
+ 密码：javazhidao
+ 
+ 公众号：java知道
+ 账户：3485058764@qq.com	
+ 密码：javazhidao1989
+ 
+ 
+ http://www.qt86.com/31
+ 
+ 
+ 
+ Eclipse  Mars.2 Release (4.5.2) 的SVN 安装地址，用下面这个地址可以安装成功：
+  Update Site:
+http://download.eclipse.org/technology/subversive/3.0/update-site/	
+
+
+ mybatis整合redis 
+http://blog.csdn.net/fhx007/article/details/12680875
+
+Sitemesh 3 的使用及配置
+http://www.cnblogs.com/luotaoyeah/p/3776879.html
+
+周末安排：
+
+ 1 框架搭建  
+ 			springmvc +mybatis + luncene+freemaker +shiro+
+		后台	boostarp（UI） + siteMesh(布局) + angular.js（分离前后端）
+
+	web端项目 前后台 
+
+ 2 产品方向，功能点确定
+第一版功能点
+	前台：
+		用户登录 注册 密码修改，忘记密码
+		文章收藏，点赞 
+		java知识分类 汇总 
+		搜索  luncene 文章搜索
+		文章收录
+		文章分享
+		用户的留言和建议
+	后台
+		用户管理（新增，修改）		
+		文章管理（包括 文章新增，文章审核，排序 ，推荐，删除，修改）
+		luncene 索引重建按钮(系统管理）
+		官网首页内容的动态配置 如广告图 分类（内容管理）
+		
+第二版功能点
+		
+	用户登录 新增 微信和QQ 一键登录
+	--shiro权限管理
+	增加redis 缓存
+	用户文章评论，回复
+	代码库 功能代码的展示和示例演示（重点） 
+	
+	开发手机端页面功能 
+	结合微信开发的
+			
+						
+第三版功能点
+		
+	html5 开发 app ，app功能主要以搜索，展示为主。
+	
+	论坛功能：问题交流，我要招聘，我要求职，职位内推
+			
+			
+
+						
+第四版本功能点
+
+	统计分析（PV，UV ,会员情况  ） 报表 
+	书籍类的电商平台 实现 购物车，微信支付，支付宝支付，银联支付等功能 
+	后台订单管理  
+
+
+				
+ 网站辅助功能
+Nginx 负载均衡  ，热部署   
+ 网站备案  广告联盟
+ 				
+ 				
+ 				
+ 3 数据库定义
+ 用户表  省份表 市区表 区域表
+ 留言表  产品表 分类表  订单表 订单详情表
+
+
+ 3 git 
+ 4 域名申请
+ 5 空间申请
