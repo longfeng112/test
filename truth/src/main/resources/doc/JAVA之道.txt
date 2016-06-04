@@ -1,50 +1,50 @@
-ÏîÄ¿×¼±¸¹¤×÷
+é¡¹ç›®å‡†å¤‡å·¥ä½œ
 
-gitµÄ×¢²áºÍ°²×°
+gitçš„æ³¨å†Œå’Œå®‰è£…
 https://github.com/
 http://blog.csdn.net/hhhccckkk/article/details/10458159
 http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html
 
-ÈçºÎÒ»ÆğÊ¹ÓÃgitºÍsvn
+å¦‚ä½•ä¸€èµ·ä½¿ç”¨gitå’Œsvn
 http://blog.csdn.net/zajin/article/details/9663203
 
-github¶àÈËĞ­×÷
+githubå¤šäººåä½œ
 http://bbs.nfa5.com/github/39774.html
 
 http://ask.dcloud.net.cn/docs/#http://ask.dcloud.net.cn/article/89
 http://www.dcloud.io/hellomui/
 
-Èı·½ÅàÑµ
+ä¸‰æ–¹åŸ¹è®­
 
-HTML5ÖĞ¹ú²úÒµÁªÃËÀïÓĞ×¨ÒµµÄÅàÑµ»ú¹¹ÎªHTML5¿ª·¢ÕßÌá¹©DCloud²úÆ·µÄÅàÑµ¡£
-- 0HichµÄÍøĞ££º´óÁ¿Ãâ·ÑÊÓÆµ½Ì³Ì£ºhttp://dcloud.apk00.com
-- ¶«ÒîÑ§Ôº£ºÖ±²¥Ğ¡°à¿ª¿Î£ºhttp://www.dongyixueyuan.com/
-ÍøÓÑ¾­Ñé
+HTML5ä¸­å›½äº§ä¸šè”ç›Ÿé‡Œæœ‰ä¸“ä¸šçš„åŸ¹è®­æœºæ„ä¸ºHTML5å¼€å‘è€…æä¾›DCloudäº§å“çš„åŸ¹è®­ã€‚
+- 0Hichçš„ç½‘æ ¡ï¼šå¤§é‡å…è´¹è§†é¢‘æ•™ç¨‹ï¼šhttp://dcloud.apk00.com
+- ä¸œç¿Œå­¦é™¢ï¼šç›´æ’­å°ç­å¼€è¯¾ï¼šhttp://www.dongyixueyuan.com/
+ç½‘å‹ç»éªŒ
 
-Èı·½ÍøÓÑµÄÑ§Ï°¾­ÑéÓĞÊ±¶ÔÆäËûÈëÃÅÕß»áºÜÓĞ°ïÖú£¬Õ¾ÔÚÁíÒ»¸ö½Ç¶ÈÀ´¿´´ıÎÊÌâ¡£
-ÍøÓÑYanRongµÄĞÄµÃ£º [http://ask.dcloud.net.cn/article/217] (http://ask.dcloud.net.cn/article/217)
-µÎÊ¯App¿ª·¢ÕßµÄĞÄµÃ£ºhttp://uikoo9.com/book/chapterDetail/1
+ä¸‰æ–¹ç½‘å‹çš„å­¦ä¹ ç»éªŒæœ‰æ—¶å¯¹å…¶ä»–å…¥é—¨è€…ä¼šå¾ˆæœ‰å¸®åŠ©ï¼Œç«™åœ¨å¦ä¸€ä¸ªè§’åº¦æ¥çœ‹å¾…é—®é¢˜ã€‚
+ç½‘å‹YanRongçš„å¿ƒå¾—ï¼š [http://ask.dcloud.net.cn/article/217] (http://ask.dcloud.net.cn/article/217)
+æ»´çŸ³Appå¼€å‘è€…çš„å¿ƒå¾—ï¼šhttp://uikoo9.com/book/chapterDetail/1
 
-¹ØÓÚÅàÑµ×ÊÔ´£¬Ïê¼ûhttp://ask.dcloud.net.cn/article/299
+å…³äºåŸ¹è®­èµ„æºï¼Œè¯¦è§http://ask.dcloud.net.cn/article/299
 
 
 
-Native.jsÊ¾Àı»ã×Ü 
+Native.jsç¤ºä¾‹æ±‡æ€» 
 http://ask.dcloud.net.cn/article/114
 
 
 http://ask.dcloud.net.cn/article/88
 
+    cx
+å¼€å‘èµ„æº
 
-¿ª·¢×ÊÔ´
-
-iOS ¹Ù·½ÔÚÏßÎÄµµ£ºhttps://developer.apple.com/library/ios/navigation/
-Android ¹Ù·½ÔÚÏßÎÄµµ£ºhttps://developer.android.com/reference/packages.html
-Ñİ½²ÊÓÆµ£ºhttp://v.youku.com/v_show/id_XNzYzNTcwNDI4.html
+iOS å®˜æ–¹åœ¨çº¿æ–‡æ¡£ï¼šhttps://developer.apple.com/library/ios/navigation/
+Android å®˜æ–¹åœ¨çº¿æ–‡æ¡£ï¼šhttps://developer.android.com/reference/packages.html
+æ¼”è®²è§†é¢‘ï¼šhttp://v.youku.com/v_show/id_XNzYzNTcwNDI4.html
 
 
 
- ÍøÕ¾µ½µ×Òª²»Òª±¸°¸
+ ç½‘ç«™åˆ°åº•è¦ä¸è¦å¤‡æ¡ˆ
  http://www.chinaz.com/web/2015/0629/417793.shtml
  
  http://wenku.baidu.com/link?url=IJDKR3SHm9qwBuy5nsMfCLEtbK44HGP2zVNPa_ZOaO41X4CIIjTuM5P4DT8iSIpuc5uTcGyUdo2xJGnwQoHbYPiBW5l-lqWYZkUfiFxrYye
@@ -54,7 +54,7 @@ Android ¹Ù·½ÔÚÏßÎÄµµ£ºhttps://developer.android.com/reference/packages.html
  
  
  
- SpringÕûºÏFreeMarkerÅäÖÃ
+ Springæ•´åˆFreeMarkeré…ç½®
  http://swiftlet.net/archives/category/freemarker
  
  
@@ -62,93 +62,87 @@ Android ¹Ù·½ÔÚÏßÎÄµµ£ºhttps://developer.android.com/reference/packages.html
  http://songjianyong.iteye.com/blog/1462208
  
  
- QQºÅ£º3485058764
- ÃÜÂë£ºjavazhidao
- 
- ¹«ÖÚºÅ£ºjavaÖªµÀ
- ÕË»§£º3485058764@qq.com	
- ÃÜÂë£ºjavazhidao1989
- 
+
  
  http://www.qt86.com/31
  
  
  
- Eclipse  Mars.2 Release (4.5.2) µÄSVN °²×°µØÖ·£¬ÓÃÏÂÃæÕâ¸öµØÖ·¿ÉÒÔ°²×°³É¹¦£º
+ Eclipse  Mars.2 Release (4.5.2) çš„SVN å®‰è£…åœ°å€ï¼Œç”¨ä¸‹é¢è¿™ä¸ªåœ°å€å¯ä»¥å®‰è£…æˆåŠŸï¼š
   Update Site:
 http://download.eclipse.org/technology/subversive/3.0/update-site/	
 
 
- mybatisÕûºÏredis 
+ mybatisæ•´åˆredis 
 http://blog.csdn.net/fhx007/article/details/12680875
 
-Sitemesh 3 µÄÊ¹ÓÃ¼°ÅäÖÃ
+Sitemesh 3 çš„ä½¿ç”¨åŠé…ç½®
 http://www.cnblogs.com/luotaoyeah/p/3776879.html
 
-ÖÜÄ©°²ÅÅ£º
+å‘¨æœ«å®‰æ’ï¼š
 
- 1 ¿ò¼Ü´î½¨  
+ 1 æ¡†æ¶æ­å»º  
  			springmvc +mybatis + luncene+freemaker +shiro+
-		ºóÌ¨	boostarp£¨UI£© + siteMesh(²¼¾Ö) + angular.js£¨·ÖÀëÇ°ºó¶Ë£©
+		åå°	boostarpï¼ˆUIï¼‰ + siteMesh(å¸ƒå±€) + angular.jsï¼ˆåˆ†ç¦»å‰åç«¯ï¼‰
 
-	web¶ËÏîÄ¿ Ç°ºóÌ¨ 
+	webç«¯é¡¹ç›® å‰åå° 
 
- 2 ²úÆ··½Ïò£¬¹¦ÄÜµãÈ·¶¨
-µÚÒ»°æ¹¦ÄÜµã
-	Ç°Ì¨£º
-		ÓÃ»§µÇÂ¼ ×¢²á ÃÜÂëĞŞ¸Ä£¬Íü¼ÇÃÜÂë
-		ÎÄÕÂÊÕ²Ø£¬µãÔŞ 
-		javaÖªÊ¶·ÖÀà »ã×Ü 
-		ËÑË÷  luncene ÎÄÕÂËÑË÷
-		ÎÄÕÂÊÕÂ¼
-		ÎÄÕÂ·ÖÏí
-		ÓÃ»§µÄÁôÑÔºÍ½¨Òé
-	ºóÌ¨
-		ÓÃ»§¹ÜÀí£¨ĞÂÔö£¬ĞŞ¸Ä£©		
-		ÎÄÕÂ¹ÜÀí£¨°üÀ¨ ÎÄÕÂĞÂÔö£¬ÎÄÕÂÉóºË£¬ÅÅĞò £¬ÍÆ¼ö£¬É¾³ı£¬ĞŞ¸Ä£©
-		luncene Ë÷ÒıÖØ½¨°´Å¥(ÏµÍ³¹ÜÀí£©
-		¹ÙÍøÊ×Ò³ÄÚÈİµÄ¶¯Ì¬ÅäÖÃ Èç¹ã¸æÍ¼ ·ÖÀà£¨ÄÚÈİ¹ÜÀí£©
+ 2 äº§å“æ–¹å‘ï¼ŒåŠŸèƒ½ç‚¹ç¡®å®š
+ç¬¬ä¸€ç‰ˆåŠŸèƒ½ç‚¹
+	å‰å°ï¼š
+		ç”¨æˆ·ç™»å½• æ³¨å†Œ å¯†ç ä¿®æ”¹ï¼Œå¿˜è®°å¯†ç 
+		æ–‡ç« æ”¶è—ï¼Œç‚¹èµ 
+		javaçŸ¥è¯†åˆ†ç±» æ±‡æ€» 
+		æœç´¢  luncene æ–‡ç« æœç´¢
+		æ–‡ç« æ”¶å½•
+		æ–‡ç« åˆ†äº«
+		ç”¨æˆ·çš„ç•™è¨€å’Œå»ºè®®
+	åå°
+		ç”¨æˆ·ç®¡ç†ï¼ˆæ–°å¢ï¼Œä¿®æ”¹ï¼‰		
+		æ–‡ç« ç®¡ç†ï¼ˆåŒ…æ‹¬ æ–‡ç« æ–°å¢ï¼Œæ–‡ç« å®¡æ ¸ï¼Œæ’åº ï¼Œæ¨èï¼Œåˆ é™¤ï¼Œä¿®æ”¹ï¼‰
+		luncene ç´¢å¼•é‡å»ºæŒ‰é’®(ç³»ç»Ÿç®¡ç†ï¼‰
+		å®˜ç½‘é¦–é¡µå†…å®¹çš„åŠ¨æ€é…ç½® å¦‚å¹¿å‘Šå›¾ åˆ†ç±»ï¼ˆå†…å®¹ç®¡ç†ï¼‰
 		
-µÚ¶ş°æ¹¦ÄÜµã
+ç¬¬äºŒç‰ˆåŠŸèƒ½ç‚¹
 		
-	ÓÃ»§µÇÂ¼ ĞÂÔö Î¢ĞÅºÍQQ Ò»¼üµÇÂ¼
-	--shiroÈ¨ÏŞ¹ÜÀí
-	Ôö¼Óredis »º´æ
-	ÓÃ»§ÎÄÕÂÆÀÂÛ£¬»Ø¸´
-	´úÂë¿â ¹¦ÄÜ´úÂëµÄÕ¹Ê¾ºÍÊ¾ÀıÑİÊ¾£¨ÖØµã£© 
+	ç”¨æˆ·ç™»å½• æ–°å¢ å¾®ä¿¡å’ŒQQ ä¸€é”®ç™»å½•
+	--shiroæƒé™ç®¡ç†
+	å¢åŠ redis ç¼“å­˜
+	ç”¨æˆ·æ–‡ç« è¯„è®ºï¼Œå›å¤
+	ä»£ç åº“ åŠŸèƒ½ä»£ç çš„å±•ç¤ºå’Œç¤ºä¾‹æ¼”ç¤ºï¼ˆé‡ç‚¹ï¼‰ 
 	
-	¿ª·¢ÊÖ»ú¶ËÒ³Ãæ¹¦ÄÜ 
-	½áºÏÎ¢ĞÅ¿ª·¢µÄ
+	å¼€å‘æ‰‹æœºç«¯é¡µé¢åŠŸèƒ½ 
+	ç»“åˆå¾®ä¿¡å¼€å‘çš„
 			
 						
-µÚÈı°æ¹¦ÄÜµã
+ç¬¬ä¸‰ç‰ˆåŠŸèƒ½ç‚¹
 		
-	html5 ¿ª·¢ app £¬app¹¦ÄÜÖ÷ÒªÒÔËÑË÷£¬Õ¹Ê¾ÎªÖ÷¡£
+	html5 å¼€å‘ app ï¼ŒappåŠŸèƒ½ä¸»è¦ä»¥æœç´¢ï¼Œå±•ç¤ºä¸ºä¸»ã€‚
 	
-	ÂÛÌ³¹¦ÄÜ£ºÎÊÌâ½»Á÷£¬ÎÒÒªÕĞÆ¸£¬ÎÒÒªÇóÖ°£¬Ö°Î»ÄÚÍÆ
+	è®ºå›åŠŸèƒ½ï¼šé—®é¢˜äº¤æµï¼Œæˆ‘è¦æ‹›è˜ï¼Œæˆ‘è¦æ±‚èŒï¼ŒèŒä½å†…æ¨
 			
 			
 
 						
-µÚËÄ°æ±¾¹¦ÄÜµã
+ç¬¬å››ç‰ˆæœ¬åŠŸèƒ½ç‚¹
 
-	Í³¼Æ·ÖÎö£¨PV£¬UV ,»áÔ±Çé¿ö  £© ±¨±í 
-	Êé¼®ÀàµÄµçÉÌÆ½Ì¨ ÊµÏÖ ¹ºÎï³µ£¬Î¢ĞÅÖ§¸¶£¬Ö§¸¶±¦Ö§¸¶£¬ÒøÁªÖ§¸¶µÈ¹¦ÄÜ 
-	ºóÌ¨¶©µ¥¹ÜÀí  
+	ç»Ÿè®¡åˆ†æï¼ˆPVï¼ŒUV ,ä¼šå‘˜æƒ…å†µ  ï¼‰ æŠ¥è¡¨ 
+	ä¹¦ç±ç±»çš„ç”µå•†å¹³å° å®ç° è´­ç‰©è½¦ï¼Œå¾®ä¿¡æ”¯ä»˜ï¼Œæ”¯ä»˜å®æ”¯ä»˜ï¼Œé“¶è”æ”¯ä»˜ç­‰åŠŸèƒ½ 
+	åå°è®¢å•ç®¡ç†  
 
 
 				
- ÍøÕ¾¸¨Öú¹¦ÄÜ
-Nginx ¸ºÔØ¾ùºâ  £¬ÈÈ²¿Êğ   
- ÍøÕ¾±¸°¸  ¹ã¸æÁªÃË
+ ç½‘ç«™è¾…åŠ©åŠŸèƒ½
+Nginx è´Ÿè½½å‡è¡¡  ï¼Œçƒ­éƒ¨ç½²   
+ ç½‘ç«™å¤‡æ¡ˆ  å¹¿å‘Šè”ç›Ÿ
  				
  				
  				
- 3 Êı¾İ¿â¶¨Òå
- ÓÃ»§±í  Ê¡·İ±í ÊĞÇø±í ÇøÓò±í
- ÁôÑÔ±í  ²úÆ·±í ·ÖÀà±í  ¶©µ¥±í ¶©µ¥ÏêÇé±í
+ 3 æ•°æ®åº“å®šä¹‰
+ ç”¨æˆ·è¡¨  çœä»½è¡¨ å¸‚åŒºè¡¨ åŒºåŸŸè¡¨
+ ç•™è¨€è¡¨  äº§å“è¡¨ åˆ†ç±»è¡¨  è®¢å•è¡¨ è®¢å•è¯¦æƒ…è¡¨
 
 
  3 git 
- 4 ÓòÃûÉêÇë
- 5 ¿Õ¼äÉêÇë
+ 4 åŸŸåç”³è¯·
+ 5 ç©ºé—´ç”³è¯·
